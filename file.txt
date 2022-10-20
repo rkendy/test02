@@ -3,3 +3,4 @@ Commit 2 from main
 Commig 1 from feature
 New Commit 3 from main
 New Commit 4 from main
+New Commit 1 from feature2
